@@ -3,4 +3,4 @@ The details of the program are given below:
 [Details](https://github.com/erhanyalniz/TSP/blob/9312c8605236b3756b6560527b4bc9524c5b9925/Traveling%20Salesman%20Problem.pdf)
 
 Report of the project is given below:  
-[Details]()
+[Details](https://github.com/erhanyalniz/TSP/blob/fdbefc797c5c6cfd8688c456cb1e4bee4ad653fb/TSP%20Report.pdf)
